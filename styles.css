@@ -1,0 +1,27 @@
+.ab{
+    
+    background-color: rgb(250, 124, 145);
+}
+.screen{
+    height: 500px;
+    margin-left: 300px;
+}
+.ar{
+    margin-left: 200px;
+    height: 87px;
+}
+.ar1{
+    height: 73px;
+    margin-left: 185px;
+   
+}
+.ar2{
+    height: 83.5px;
+    padding-left: 185px;
+}
+.first{
+    background-color:hsl(207, 100%, 98%);
+}
+.second{
+    background-color:  hsl(192, 100%, 9%);
+}
